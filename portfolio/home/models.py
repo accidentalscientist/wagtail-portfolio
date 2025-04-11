@@ -13,6 +13,7 @@ from modelcluster.models import ClusterableModel
 from colorfield.fields import ColorField
 
 
+
 class HomePage(AbstractEmailForm):
     """
     HomePage model contains data for the main sections: Site Owner, About, Skills, Projects, and Contact Form.
